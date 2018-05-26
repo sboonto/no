@@ -1,0 +1,23 @@
+# jemdoc: menu{MENU}{sudchai.html}
+# jemdoc: addcss{mktree.css}
+# jemdoc: analytics{UA-187686-12}
+= Sudchai Boonto - Open Project  
+[http://www.inc.eng.kmutt.ac.th/ Department of Control System and Instrumentation Engineering\n]
+[http://www.kmutt.ac.th/ King Mongkut's Unniversity of Technokogy Thonburi]
+
+
+
+== Master (2 years)
+- Fixed Structure Robust Repetitive Control (open)
+- Low Order Controller Design of LPV Control (open)
+- Robust Model Predictive Control (open)
+- Industrial Process System Identification (open)
+- Deep Learning Linear Recurrent Neural Network Model (open)
+  -- [https://deeplearning4j.org/index.html Deep Learning for Java]
+
+
+== Ph.D. (3-5 years) 
+- Robust two-degree-of-freedom Controller for LPV system (open)
+- Robust Model Predictive Control (open)
+- Stochastic Model Predictive Control (open) 
+

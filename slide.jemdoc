@@ -1,0 +1,46 @@
+# jemdoc: menu{menu_inc341s}{inc341s.html}
+# jemdoc: addcss{jemdoc.css}
+# jemdoc: addcss{jacob.css}
+= INC341: System Modelling and Analysis 
+[http://staff.kmutt.ac.th/~sudchai.boo/ Asst.Prof.Dr.-Ing.Sudchai Boonto, KMUTT, 2017]
+ 
+== Lecture slides 
+- Introduction [http://staff.kmutt.ac.th/~sudchai.boo/Teaching/inc341s/lecture1_2017.pdf (pdf)] (Update 9 Aug 2017)
+#	-- Linearization [http://staff.kmutt.ac.th/~sudchai.boo/Teaching/inc341s/lecture1_2017add.pdf (pdf)] 
+- Modeling of Rigid-Body Mechanical Systems [http://staff.kmutt.ac.th/~sudchai.boo/Teaching/inc341s/lecture2_2017.pdf (pdf)] (Correction in pp: 21, 27)
+- General Planar Motion [http://staff.kmutt.ac.th/~sudchai.boo/Teaching/inc341s/lecture3_2017.pdf (pdf)]  (Correction in pp: 3, 12, 13)
+- Sprint and Damping Element [http://staff.kmutt.ac.th/~sudchai.boo/Teaching/inc341s/lecture4_2017.pdf (pdf)]
+- Time-Domain Analysis of Continuous-Time Systems [http://staff.kmutt.ac.th/~sudchai.boo/Teaching/inc341s/lecture5_2017.pdf (pdf)] 
+#- Dynamic Response II [http://staff.kmutt.ac.th/~sudchai.boo/Teaching/inc341/lecture6.pdf (pdf)]
+#- Feedback Control [http://staff.kmutt.ac.th/~sudchai.boo/Teaching/inc341/lecture7.pdf (pdf)]
+#- Properties of the Optimal Regulator [http://staff.kmutt.ac.th/~sudchai.boo/Teaching/inc692/lecture5_2014.pdf (pdf)]
+#- State Estimate Feedback [http://staff.kmutt.ac.th/~sudchai.boo/Teaching/inc692/lecture6_2014.pdf (pdf)]
+#- Generalized Plant and LFT form [http://staff.kmutt.ac.th/~sudchai.boo/Teaching/inc692/lecture7_2014.pdf (pdf)]
+#- Signal and System Norms [http://staff.kmutt.ac.th/~sudchai.boo/Teaching/inc692/lecture8_2014.pdf (pdf)]
+#- Design Objectives and Sensitivity Functions [http://staff.kmutt.ac.th/~sudchai.boo/Teaching/inc692/lecture9_2014.pdf (pdf)]
+#- Input-Disturbance Design Example [http://staff.kmutt.ac.th/~sudchai.boo/Teaching/inc692/lecture10_2014.pdf (pdf)]
+#- Linear Matrix Inequality [http://staff.kmutt.ac.th/~sudchai.boo/Teaching/inc692/lecture11_2014.pdf (pdf)]
+#- Robust Stability and Robust Performance [http://staff.kmutt.ac.th/~sudchai.boo/Teaching/inc692/lecture11.pdf (pdf)]
+#- Robust Stability and Robust Performance Analysis and Synthesis [http://staff.kmutt.ac.th/~sudchai.boo/Teaching/inc692/lecture12_2014.pdf (pdf)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+  
+
+
+
+

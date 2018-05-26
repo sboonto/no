@@ -1,0 +1,203 @@
+# jemdoc: menu{MENU}{papers.html}
+# jemdoc: addcss{mktree.css}
+
+ 
+\n
+= Publications and Patents by Sudchai Boonto 
+Here you find my papers for download. Please, let me know if you want some papers that are not downloadable.
+
+== International Jouranal Papers
+~~~
+{}{table}{IJP}
+\[IJ1\]  | R. K{{&ouml;}}rlin, S. Boonto, H. Werner, and U. Starossek,
+"LMI-based gain scheduling for bridge flutter control using eccentric rotational actuators", 
+/Optimal Control, Applications and Methods/, Vol. 33, No. 4, pp. 488--500, 2012. 
+[https://staff.kmutt.ac.th/~sudchai.boo/people/sudchai/bibtexbrowser.php?key=KoBoWeSt12&bib=Sudchai.bib \[bib\]]||
+
+
+#\[IJ2\]  | T. Nuchkrua, W. Kornmaneesang, S.-L. Chen, and  S. Boonto,
+#"Precision Contouring Control of 5 DOF Dual-arm Robot Manipulators with Holonomic Constraints", 
+#/IEEE transaction on control system technology/ (submitted) ||
+
+#\[IJ3\]  | T. Nuchkrua, S.-L. Chen, S. Boonto, 
+#"Adaptive Contouring Control for High-precision 5 DoF Robot Manipulators under Various Environments,"
+#/Asian Journal of Control/ (submitted) ||
+
+#\[IJ4\]  | T. Nuchkrau, W. Kornmaneesang, S.-L. Chen, and S. Boonto, "High-precision Control of Dual-arm Robot 
+#Manipulators with Holonomic Constraints,"  /IEEE Robotics and Automation Letters/ (submitted) ||
+
+#\[IJ5\]  | S. Boonto, and T. Nuchkrau, "Non-linear Control for Thermal System of Metal Hydride,"
+#/International Journal of Hydrogen Energy/ (accepted) ||
+
+~~~
+
+== National Journal Papers
+~~~
+{}{table}{NJP}
+ \[NJ1\]  |  V. Sittiarttakorn, S. Boonto, "Hybrid Engine Model Using a Stirling Engine and a DC Motor,"
+  Journal of the Japan Society of Applied Electromagnetics and Mechanics, Vol. 23, No. 3, pp. 563-566, 2015. 
+~~~
+  
+== Peer-Reviewed International Conference Papers
+~~~
+{}{table}{ICP}
+#\[IC23\] | T. Nuchkrau, W. Kornmaneesang, S.-L. Chen, and S. Boonto, "High-precision Control of Dual-arm Robot 
+#Manipulators with Holonomic Constraints," In Proceedings of 2017 International Automatic Control Conference (CACS 2017)
+#, Pingtung, Taiwan, Nov. 12--15, 2017 (accepted) ||
+\[IC22\] | T. Nuchkrau, S. Boonto, "Learning-based Adaptive Robust Control of Manipulated Pneumatic Artificial Muscle 
+Driven by H$_2$-based Metal Hydride," In Proceedings of 14th IEEE International Conference on Automation Science 
+and Engineering (CASE 2018), Technical University of Munich Campus Garching, Germany, August 20--24, 2018 (accepted) ||
+
+\[IC21\] | T. Nuchkrau, W. Kornmaneesang, S.-L. Chen, and S. Boonto, "Precision Contouring Control of 5 DOF 
+Dual-arm Robot Manipulators with Holonomic Constraints," In Proceedings of 2017 Asian Control Conference (ASCC 2017), 
+Gold Coast Convention Centre, Australia, December 17--20, 2017  
+[https://staff.kmutt.ac.th/~sudchai.boo/people/sudchai/bibtexbrowser.php?key=NuKoChBo17&bib=Sudchai.bib \[bib\]]
+[http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8287303 \[pdf\]]||
+
+\[IC20\] | V. Sittiarttakorn, and S. Boonto, "Mobile Robot Multi-Paths Tracking Control Using Optical Coding", In Proceedings of the 4th 
+International Conference on Applied Electrical and Mechanical Engineering 2017 (ICAEME 2017), Nongkhai 
+Thailand, August 31--September 2, 2017 ||
+
+#\[IC20\] | T. Nuchkrua, W. Kornmaneesang, S.-L. Chen, S. Boonto, "A Novel Coordinate Framework of 5-DoF Dual-arm Robot Manipulators 
+#for High Precision Path-contouring Control", In Proceedings of The 13th Conference on Automation Science and Engineering (CASE 2017), 
+#Xi'an, China, August 20--23, 2017, (to appear)||
+
+\[IC19\] | T. Nuchkrua, S.-L. Chen, S. Boonto, "A Novel Technique of Dual-arm Robot Manipulators: Path-contouring Control Problem," In Proceeding of the 
+13th IEEE International Conference on Control & Automation (ICCA 2017), Ohrid, Macedonia, July 3--6, 2017,  pp. 867-871 
+ [http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8003174 \[pdf\]] 
+ [https://staff.kmutt.ac.th/~sudchai.boo/people/sudchai/bibtexbrowser.php?key=NuChBo17&bib=Sudchai.bib \[bib\]]||
+
+\[IC18\] | P. Phowanna, S. Boonto, E. Mujjalinvimut, M. Konghirun, W. Lenwari, "Improved Performance of Sliding
+Mode Observer Using Parameter Adaptation in Sensorless IPMSM Drive,"
+In Proceedings of The 12th IEEE Conference on Industrial Electronics and Applications (ICIEA 2017), Siem Reap, Cambodia, June 18-20, 2017 , pp. 1635-1640
+[http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8283101 \[pdf\]][https://staff.kmutt.ac.th/~sudchai.boo/people/sudchai/bibtexbrowser.php?key=PhBoMuKoLe17&bib=Sudchai.bib \[bib\]]||
+
+\[IC17\] | T. Nuchkrua, S.-L. Chen, S. Boonto, "Adaptive Contouring Control for High-precision 5 DoF Robot Manipulators under Various Environments," 
+In Proceedings of the 2016 International Automatic Control Conference (CACS 2016), Evergreen Laurel Hotel,
+Taichung, Taiwan, November 9-11, 2016 [https://staff.kmutt.ac.th/~sudchai.boo/people/sudchai/bibtexbrowser.php?key=NuChBo16&bib=Sudchai.bib \[bib\]]||
+
+\[IC16\] | W. Sintanavevong, S. Boonto, S. Naetiladdanon, "Robust Repetitive Control with Feed-
+forward Scheme for Stand-Alone Inverter," In Proceedings of the 16th Interna-
+tional Conference on Control, Automation and Systems, HICO, Gyeongju, Korea, October
+16-19, 2016, pp. 359-364 [http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7832344 \[pdf\]] 
+[https://staff.kmutt.ac.th/~sudchai.boo/people/sudchai/bibtexbrowser.php?key=SiBoNa16&bib=Sudchai.bib \[bib\]]||
+
+\[IC15\] | C. Thabthimratthana, S. Saelim, S. Tiewcharoen, S. Boonto, "Robust PID Controller
+Design Using Convex-Concave Optimization: Application to an Unstable System," 
+In Proceedings of the 16th International Conference on Control, Automation and
+Systems, HICO, Gyeongju, Korea, October 16-19, 2016, pp. 638-643  [http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7832385 \[pdf\]] 
+ [https://staff.kmutt.ac.th/~sudchai.boo/people/sudchai/bibtexbrowser.php?key=ThSaTiBo16&bib=Sudchai.bib \[bib\]]||
+
+\[IC14\] | P. Phowanna, S. Boonto, M. Konghirun, "Online Parameter Identification Method for IPMSM Drive with MTPA,"
+  In Proceedings of the 18th International Conference on Electrical Machines and Systems, 
+  Pattaya City, Thailand, October 25-28, 2015 [http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7385328 \[pdf\]] 
+ [https://staff.kmutt.ac.th/~sudchai.boo/people/sudchai/bibtexbrowser.php?key=PhBoKo15&bib=Sudchai.bib \[bib\]]||
+
+\[IC13\] |  Sittiarttakorn, V., Boonto, S., "Hybrid Modeling Using a Stirling Engine and a DC Motor," 
+   In Proceedings of the Asia-Pacific Symposium on Applied Electromagnetic and Mechanics, 
+   National Chung Hsing University, Taichung, Taiwan, July 23-25, 2014 ||
+   
+\[IC12\] |  W. Sriart, S. Boonto, S. Naetiladdanon, W.  Lenwari, "Grid Connected Inverter Control by Two-Degree-of-Freedom Robust $H_\infty$
+  Repetitive," In Proceedings of Proceedings of The 2014 International Conference on Electrical Engineering Electronics,Computer, 
+  Telecommunications and Information Technology (ECIT-CON 2014), Nakhon Ratchasima, Thailand, May 14--17, 2014
+  [http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6839880 \[pdf\]]
+[https://staff.kmutt.ac.th/~sudchai.boo/people/sudchai/bibtexbrowser.php?key=SrBoNaLe14a&bib=Sudchai.bib \[bib\]]||
+
+  
+\[IC11\] | W. Sriart, S. Boonto, S. Naetiladdanon,  W.  Lenwari,  "Two-Degree-of-Freedom Robust $\mathcal{H}_{\infty}$ 
+  Repetitive Control for Grid-Connected Inverter," In Proceedings of the 11th IEEE International Conference on Control 
+  and Automation (ICCA 2014), Taichung, Taiwan, June 18-20, 2014, pp. 791-796.
+    [http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6871022 \[pdf\]]  
+[https://staff.kmutt.ac.th/~sudchai.boo/people/sudchai/bibtexbrowser.php?key=SrBoNaLe14b&bib=Sudchai.bib \[bib\]]||
+
+
+\[IC10\] | N. Patcharaprakiti, K. Kirtikara, A. Sanswang, S. Boonto,  "Stability Analysis of a Photovoltaic Grid Connected Inverter Model 
+	Based on System Identification," In Proceedings of the 2012 IEEE Region 10 Conference, Cebu, Philippines, 
+	November 19--22,  pp. 1--4,  2012. [http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6412210 \[pdf\]]
+ [https://staff.kmutt.ac.th/~sudchai.boo/people/sudchai/bibtexbrowser.php?key=PaKiSaBo12&bib=Sudchai.bib \[bib\]]||
+ 
+
+\[IC9\] | A. Kominek, S. Remolina, S. Boonto, H. Werner, M. Garwon, and M. Schultalbers, "Low-Complexity LPV Input-Output Identification 
+	and Control of a Turbocharged Combustion Engine," In Proceedings of the 51th IEEE Conference on Decision and Control, 
+	Maui, HI., USA, December 10--13, pp. 4492--4497, 2012. [http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6426688 \[pdf\]] 
+ [https://staff.kmutt.ac.th/~sudchai.boo/people/sudchai/bibtexbrowser.php?key=KoReBoWeGaSc12&bib=Sudchai.bib \[bib\]]||
+
+\[IC8\] | S. Boonto, and W. Lenwari, "Two-Degree-of-Freedom  $H_{\infty}$ Control Design for Harmonic Current Control of Shunt Active Filters," 
+	In proceedings of the 15th IEEE International Conference on Harmonics and Quality of Power (ICHQP 2012), 
+	Hong Kong, June 2012 , Paper No. 76. [http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6381220 \[pdf\]] 
+[https://staff.kmutt.ac.th/~sudchai.boo/people/sudchai/bibtexbrowser.php?key=BoLe12&bib=Sudchai.bib \[bib\]]||
+
+
+\[IC7\] | Q. Liu, G. Kaiser, S. Boonto, H. Werner,  F. Holzmann, B. Chretien, and M. Korte,  "Two-Degree-of-Freedom LPV
+	 Controller Design in Torque Vectoring of a through the Road Hybrid
+	Electric Vehicle," In proceedings of the 50th IEEE Conference on Decision and
+	Control and European Control Conference (CDC-ECC 2011), Florida, USA, December 12--15, pp. 1274--1279, 2011. 
+	[http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6161175  \[pdf\]]
+[https://staff.kmutt.ac.th/~sudchai.boo/people/sudchai/bibtexbrowser.php?key=LiKaBoWeHoChKo11&bib=Sudchai.bib \[bib\]]||
+
+\[IC6\] | S. Boonto, and  H. Werner, "Closed-Loop Identification of LPV Modles 
+	 Using Cubic Splines with Application to an Arm-Driven Inverted Pendulum",  
+	 2010 American Control Conference, Baltimore, USA, June 30 - July 2,pp. 3100 -- 3105, 2010 . 
+	[http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5531139 \[pdf\]]
+ [https://staff.kmutt.ac.th/~sudchai.boo/people/sudchai/bibtexbrowser.php?key=BoWe10&bib=Sudchai.bib \[bib\]]||
+ 
+
+\[IC5\] | I. Wior, S. Boonto, H. S. Abbas, and H. Werner, "Modeling and Control 
+	of an Experimental pH Neutralization Plant using Neural Networks based 
+	Approximate Predictive Control ", The 1st Virtual Control Conference, September 22, 2010.
+	[http://staff.kmutt.ac.th/~sudchai.boo/people/sudchai/p118.pdf \[pdf\]]
+[https://staff.kmutt.ac.th/~sudchai.boo/people/sudchai/bibtexbrowser.php?key=WiBoAbWe10&bib=Sudchai.bib \[bib\]]||
+ 
+
+\[IC4\] | S. Boonto, and H. Werner, "Closed-Loop System Identification of LPV 
+	 Input-Output Models -- Application to an Arm-Driven Inverted Pendulum", The 47th IEEE Conference 
+	on Decision and Control,  Cancun, Mexico, December 9-11, pp 2606--2611, 2008. 
+	[http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4739334&isnumber=4738560 \[pdf\]]
+ [https://staff.kmutt.ac.th/~sudchai.boo/people/sudchai/bibtexbrowser.php?key=BoWe08&bib=Sudchai.bib \[bib\]]|| 
+
+\[IC3\] | J. Witt, S. Boonto, H. Werner, Approximate Model Predictive Control of a 3-DOF Helicopter, 
+	  In Proceedings of the 46th IEEE Conference on Decision and Control, New Orleans, Louisiana USA, December, 12-14, pp 4501--4506, 2007 
+	 [http://www.ieeexplore.ieee.org/iel5/4433999/4434000/04434670.pdf?tp=&isnumber=4434000&arnumber=4434670 \[pdf\]]
+[https://staff.kmutt.ac.th/~sudchai.boo/people/sudchai/bibtexbrowser.php?key=WiBoWe07&bib=Sudchai.bib \[bib\]]||
+
+\[IC2\]  | O. Supatti, S. Boonto, C. Prapanavarat, V. Moneyagul, $H_{\infty}$ Controller Design for Parallel DC-DC Buck Converters,
+	  In Proceedings of 17th Korea Automatic Control Conference, Jeonbuk, Korea,  October, 16-19,pp. 1159--1163, 2002  ||
+
+\[IC1\]  | O. Supatti, S. Boonto, C. Prapanavarat, V. Moneyagul, Design of an $H_{\infty}$ Robust Controlled for Multimodule Parallel DC-DC Buck Converters with Average Current Mode Control, 
+	 In Proceedings of IEEE International Conference on Industrial Technology, Bangkok, Thailand,  December,11-14,pp. 992--997, 2002 
+[http://ieeexplore.ieee.org/iel5/8466/26669/01189306.pdf?tp=&arnumber=1189306&isnumber=26669 \[pdf\]]
+[https://staff.kmutt.ac.th/~sudchai.boo/people/sudchai/bibtexbrowser.php?key=SuBoPrMo02&bib=Sudchai.bib \[bib\]]||
+~~~
+
+== Peer-Reviewed National Conference Papers
+~~~
+{}{table}{NCP}
+\[NC4\] | N. Dernlugkam, S. Boonto, S. , P. Siriprala, "Identification and Control of a Half-scale Platform of Multi-Launcher Rocket System,"
+	 In Proceedings of the 36th Electrical Engineering Conference (EECON36), Kanchanaburi, Thailand, December 11-13, 2013. (in Thai)	 ||
+
+\[NC3\] | C. Techawatcharapaikul, S. Boonto, PI\/PID Design and Tuning via LMI with Time Domain Constraint, 
+	In Proceedings of the 41st Kasetsart University Annual Conference, Bangkok, Thailand, February, 3-7, 2003 (in Thai) ||
+
+\[NC2\] | S. Teratanajaru, S. Boonto, A. Chaisawadi, On-line area-based computation method for first-order plus dead-time model system identification from step response,
+	 In Proceedings of the 17th Conference on Mechanical Engineering Network of Thailand, Prajeanburi, Thailand, October, 16-17, 2003 ||
+ 
+\[NC1\] | P. Sritanauthaikarn, S. Boonto, A. Chaisawadi, Linear Matrix Inequalities Based Controller Design for Crane System, 
+	In Proceedings of the 17th Conference on Mechanical Engineering Network of Thailand, Prajeanburi, Thailand, October, 16-17, 2003 (in Thai)
+~~~
+
+== PhD Thesis
+~~~
+{}{table}{PhD}
+\[T1\] | S. Boonto, "Identification of Linear Parameter-Varying Input-Output Models," PhD Thesis, Institute of Control Systems, 
+	Technische Universit{{&auml;}}t Hamburg-Harburg
+	, Dr. Hut Verlag, 2011.
+	 [http://staff.kmutt.ac.th/~sudchai.boo/people/sudchai/CV/dissertation_final.pdf \[pdf\]] 
+[https://staff.kmutt.ac.th/~sudchai.boo/people/sudchai/bibtexbrowser.php?key=Bo11&bib=Sudchai.bib \[bib\]] \n
+	 Supervisors: H. Werner
+~~~
+
+
+
+
+
+

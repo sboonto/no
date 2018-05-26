@@ -1,0 +1,144 @@
+﻿# jemdoc: addcss{mktree.css}
+
+\n
+= Group -- Papers & Talk
+
+# ------------------------------------------------------------------------------------------------ # 
+== 2008
+=== International Conference
+~~~
+- Boonto, S. and Werner, H., "Closed-Loop System Identification of LPV
+Input-Output Models -- Application to an Arm-Driven Inverted Pendulum", The 47th IEEE Conference 
+on Decision and Control,  Cancun, Mexico, December 9-11, 2008. (Accepted)
+
+- Panomruttanarug, B. and Longman, R.W., "The Advantages and Disadvantages of Kalman Filtering in Iterative Learning Control", The 18th AAS/AIAA Space Flight Mechanics Meeting,  Galveston, Texas, USA, January 27-31, 2008.
+
+- Kamon Tabaiya, Wanchak Lenwari, and Cherdchai Prapanavarat, "Single-phase grid-connected inverter using a boot two-cell switching converter with maximum power point tracking algorithm" in Proceedings of the 5th International Conference on Electrical Engineering/Electronics,Computer, Telecommunications, Information Technology(ECTI-CON 2008) Krabi, Thailand, May 2008.
+
+- Rujisak Muangsong, Diew Koolpiruck, Anak Khantachawana and
+Panadda Niranatlumpong , "A Particle Swarm Optimization Approach for Optimal Design of
+PID Controller for Position Control Using Shape Memory Alloys" in Proceedings of the 5th International conference on Electrical Engineering/Electronics, Computer, Telecommunications, Information Technology (ECTI-CON 2008), Krabi, Thailand, May 2008.
+~~~
+
+# ------------------------------------------------------------------------------------------------- #
+== 2007 
+=== International Journal
+~~~
+- Jing Yang, Sarawan Wongsa, Visakan Kadirkamanathan, Stephen A. Billings, Phillip C. Wright, 2007,  Metabolic Flux Estimation-A Self-Adaptive Evolutionary Algorithm with Singular Value Decomposition.  IEEE/ACM Trans. Comput. Biology Bioinform. 4(1): 126-138 (2007) 
+~~~
+
+=== International Conference
+~~~
+- J. Witt, S. Boonto, H. Werner, Approximate Model Predictive Control of a 3-DOF Helicopter. In/ Proceedings of the 46th IEEE Conference on Decision and Control/, New Orleans, Louisiana USA, December, 12-14, pp 4501--4506, 2007 [http://www.ieeexplore.ieee.org/iel5/4433999/4434000/04434670.pdf?tp=&isnumber=4434000&arnumber=4434670 (pdf)]
+
+- W. Lenwari, M. Sumner, and P. Zanchetta, Automated design and implementation of resonant controllers for current control of shunt active filter.  in Proceedings of 7th International Conference on Power Electronics and Drive Systems(PEDS'07) Bangkok, Thailand, November 2007 
+
+- Kaowumpai, W., Koolpiruck, D., and Viravaidya, K.,  Development of a 3D Mathematical Model for a Doxorubicin Controlled Release System using Pluronic Gel for Breast Cancer Treatment  World Academy of Science, Engineering, and Technology, pp. 287-292, Bangkok, Thailand, December 14-16, 2007.
+
+- Panomruttanarug, B. and Longman, R.W., 2007, "The Advantages and Disadvantages of Kalman Filtering in Repetitive Control", 2007 AAS/AIAA Astrodynamics Specialist Conference, August 19-23, Mackinac Island, Michigan, USA. 
+ 
+- Panomruttanarug, B. and Longman, R.W., 2007, "Designing Optimized FIR Repetitive Controllers from Noisy Frequency Response Data", The 17th AAS/AIAA Space Flight Mechanics Meeting, January 28 - February 1, Sedona, Arizona, USA.  
+~~~
+
+=== National Conference
+~~~
+- รุจิศักดิ์ เมืองสง, เดี่ยว กุลพิรักษ์, อนรรฆ ขันธะชวนะ และปนัดดา นิรนาทล้ำพงศ์, 2550, "การควบคุมตำแหน่งการเคลื่อนที่ของโลหะจำรูป ด้วยวิธีกลุ่มอนุภาคเพื่อหาตัวแปรควบคุมพีไอดีที่เหมาะสม" การประชุมวิชาการทางวิศวกรรมไฟฟ้า ครั้งที่ 30, 25-26 ตุลาคม, โรงแรมเฟลิกซ์ริเวอร์แควรีสอร์ท, จ.กาญจนบุรี, หน้า 1181-1184.
+
+- อุกฤษฎ์ วังมงคล, เดี่ยว กุลพิรักษ์ และอนรรฆ ขันธะชวนะ, 2550, "การควบคุมตำแหน่งโลหะจำรูปชนิดแผ่นโดยการใช้กล้องตรวจจับ", การประชุมวิชาการทางวิศวกรรมไฟฟ้า ครั้งที่ 30, 25-26 ตุลาคม, โรงแรมเฟลิกซ์ริเวอร์แควรีสอร์ท, จ.กาญจนบุรี, หน้า 1153-1156.
+~~~
+# ------------------------------------------------------------------------------------------------ # 
+== 2006
+
+=== Book of Proceeding
+~~~
+- Panomruttanarug, B. and Longman, R.W., 2006, "Converting Repetitive Control into Stable Learning Control by Iterative Adjustment of Initial State", Advances in the Astronautical Sciences, Vol. 124, Part I, pp. 667-686.
+\[The AAS/AIAA 16th Space Flight Mechanics Meetings, January 22-26, Tampa , Florida\]
+
+- Panomruttanarug, B. and Longman, R.W., 2006, "Frequency Based Optimal Design of FIR Zero-phase Filters and Compensators for Robust Repetitive Control", Advances in the Astronautical Sciences, Vol. 123, Part I, pp. 219-238. \[AAS/AIAAA Astrodynamics Conference, August 7-11, 2005, Lake Tahoe, California\]
+
+~~~
+
+
+=== International Conference
+~~~
+- W. Lenwari, M. Sumner, and P. Zanchetta, Design and analysis of high performance current control for shunt active filters. in Proceedings of 3rd IET International Conference Power Electronics Machines and Drives(PEMD06) Dublin, Ireland, April 2006.
+
+- W. Lenwari, M. Sumner, and P. Zanchetta, A novel high performance current control for shunt active filters. in Proceedings of 12th International Power Electronics and Motion Control Conference(EPE-PEMC 2006) Portoroz, Slovenia, September 2006.
+
+- W. Lenwari, M. Sumner, P. Zanchetta, and M. Culea, A high performance harmonic current control for shunt active filters based on resonant compensators. in Proceedings of 32nd Annual Conference of the IEEE Industrial Electronics Society(IECON?06) Paris, France,November 2006.
+
+- Longman, R.W., Xu, K., and Panomruttanarug, B., 2006, "Designing Learning Control that is Close to Instability for Improved Parameter Identification", International Conference on High Performance Scientific Computing, March 6-10, Hanoi, Vietnam.  
+~~~
+
+=== National Conference
+~~~
+- จินดา แสงเกียรติยุทธ, เดี่ยว กุลพิรักษ์ และอนรรฆ ขันธะชวนะ, 2549, "การศึกษาเทคนิคการควบคุมตำแหน่งโดยใช้โลหะจำรูปแบบเส้นลวดและแบบสปริง", การประชุมวิชาการทางวิศวกรรมไฟฟ้า ครั้งที่ 29, 9-10 พฤศจิกายน, โรงแรมแอมบาสซาเดอร์ ซิตี้ จอมเทียน พัทยา, จ.ชลบุรี, หน้า 877-880.
+
+- จินดา แสงเกียรติยุทธ, เดี่ยว กุลพิรักษ์ และอนรรฆ ขันธะชวนะ, 2549, "การศึกษาเทคนิคการควบคุมตำแหน่งโดยใช้โลหะจำรูป", การประชุมวิชาการเครือข่ายวิศวกรรมเครื่องกลแห่งประเทศไทย ครั้งที่ 20, 18-20 ตุลาคม, โรงแรมแมนดาริน โกลเด้น วัลเล่ย์ เขาใหญ่, จ.นครราชสีมา.
+
+- วิโรจน์ สุดาธรรม, เดี่ยว กุลพิรักษ์ และอนุสรณ์ ทนหมื่นไวย, 2549, "การสอบเทียบ ไฮจ์มาสเตอร์ โดยใช้เลเซอร์อินเตอร์ฟีรอมิเตอร์", การประชุมวิชาการทางวิศวกรรมไฟฟ้า ครั้งที่ 29, 9-10 พฤศจิกายน, โรงแรมแอมบาสซาเดอร์ ซิตี้ จอมเทียน พัทยา, จ.ชลบุรี, หน้า 1069-1072.
+
+- เสรี เหร็นเส็บ, เดี่ยว กุลพิรักษ์ และอนุสรณ์ ทนหมื่นไวย, 2549, "การพัฒนาเครื่องสอบเทียบแท่งเทียบมาตรฐานแบบเปรียบเทียบ", การประชุมวิชาการทางวิศวกรรมไฟฟ้า ครั้งที่ 29, 9-10 พฤศจิกายน, โรงแรมแอมบาสซาเดอร์ ซิตี้ จอมเทียน พัทยา, จ.ชลบุรี, หน้า 1109-1112.
+~~~
+# ------------------------------------------------------------------------------------------------ # 
+ 
+== 2005
+=== International Conference
+~~~
+- Jing Yang, Sarawan Wongsa, Visakan Kadirkamanathan, Stephen A. Billings, Phillip C. Wright, Differential Evolution and Its Application to Metabolic Flux Analysis.  EvoWorkshops 2005: 115-124. 
+~~~
+# ------------------------------------------------------------------------------------------------ # 
+
+== 2004
+
+=== Book of Proceeding
+~~~
+- Longman, R.W. and Panomruttanarug, B., 2005, "Design of a Noncausal FIR Model Inverse as a Compensator in Repetitive Control", Modeling, Simulation and Optimization of Complex Processes, pp. 297-306.
+\[The International Conference on High Performance Scientific Computing, March 10-14, 2003, Hanoi, Vietnam\]
+~~~
+
+=== International Journal 
+~~~
+- Koolpiruck, D., Prakoonwit, S., and Balachandran, W., 2004, Numerical Modelling of Inhaled Charged Aerosol Deposition in Human Airways, IEEE Transactions on Industry Applications, 40(5): 1239-1248. 
+~~~
+
+=== International Conference
+~~~
+- Koolpiruck, D., Prakoonwit, S., and Balachandran, W., 2004, "Numerical Investigation of Charged Aerosol Deposition in Tracheobronchial and Alveolar Regions", Lung Modelling: Numerical and Experimental, November 16, Sheffield, UK.  
+
+- Koolpiruck, D., Prakoonwit, S., and Balachandran, W., 2004, "Deposition of Charged Inhaled Aerosols with Transient Airflow in Sequential Lung Airway Model", The 39th IAS Annual Meeting , October 3-7, Seattle, USA.  
+
+- Panomruttanarug, B. and Longman, R.W., 2004, "Repetitive Controller Design Using Optimization in Frequency Domain", AIAA/AAS Astrodynamics Specialist Conference and Exhibit, August 16-19, Providence, Rhode Island.  
+~~~
+# ------------------------------------------------------------------------------------------------ # 
+==  2003
+=== International Conference
+~~~
+- Koolpiruck, D., Prakoonwit, S., and Balachandran, W., 2003, "Charged Aerosol Transport and Deposition in a Two-dimensional Model of Human Alveolar Duct", Drug Delivery to the Lungs XIV, December 11-12, London, UK., pp. 141-143. (Poster Prize Award).  
+
+- Koolpiruck, D., Prakoonwit, S., and Balachandran, W., 2003, "Numerical Modeling of Inhaled Charged Aerosol Deposition in Human Airways", ESA/IEEE-IAS Joint Conference, June 24-27, Arkansas, USA.  
+
+- Koolpiruck, D., Prakoonwit, S., and Balachandran, W., 2003, "Deposition of Charge Aerosol in Reconstructed Human Airways", The 9th International Conference on Liquid Atomization and Spray Systems (ICLASS 2003), July 13-18, Sorrento, Italy.  
+
+- Kulon, J., Koolpiruck, D., Prakoonwit, S., and Balachandran, W., 2003, "3D Numerical and Experimental Study of the Bipolar Charge Particle Separator", IOP Electrostatics 2003 Conference, March 23-27, Edinburgh, Scotland, UK.  
+~~~
+
+=== National Conference
+~~~
+- C. Techawatcharapaikul, S. Boonto, PI\/PID Design and Tuning via LMI with Time Domain Constraint, In /Proceedings of the 41st Kasetsart University Annual Conference/, Bangkok, Thailand, February, 3-7, 2003 (in Thai)
+
+- S. Teratanajaru, S. Boonto, A. Chaisawadi, On-line area-based computation method for first-order plus dead-time model system identification from step response, In /Proceedings of the 17th Conference on Mechanical Engineering Network of Thailand/, Prajeanburi, Thailand, October, 16-17, 2003
+
+- P. Sritanauthaikarn, S. Boonto, A. Chaisawadi, Linear Matrix Inequalities Based Controller Design for Crane System, In /Proceedings of the 17th Conference on Mechanical Engineering Network of Thailand/, Prajeanburi, Thailand, October, 16-17, 2003 (in Thai)
+~~~
+# ------------------------------------------------------------------------------------------------ # 
+== 2002
+=== International Conference
+~~~
+- O. Supatti, S. Boonto, C. Prapanavarat, V. Moneyagul, $H_{\infty}$ Controller Design for Parallel DC-DC Buck Converters. In /Proceedings of 17th Korea Automatic Control Conference/, Jeonbuk, Korea,  October, 16-19,pp. 1159--1163, 2002 
+
+- O. Supatti, S. Boonto, C. Prapanavarat, V. Moneyagul, Design of an $H_{\infty}$ Robust Controlled for Multimodule Parallel DC-DC Buck Converters with Average Current Mode Control, In /Proceedings of IEEE International Conference on Industrial Technology/, Bangkok, Thailand,  December,11-14,pp. 992--997, 2002 [http://ieeexplore.ieee.org/iel5/8466/26669/01189306.pdf?tp=&arnumber=1189306&isnumber=26669 (pdf)]
+
+- Koolpiruck, D., Prakoonwit, S., and Balachandran, W.,  A Numerical Study of Charged Aerosol Transportation in Human Airways,  Drug Delivery to the Lungs XIII, London, UK, pp. 49-51, December 12-13, 2002.
+~~~
+# ------------------------------------------------------------------------------------------------ # 

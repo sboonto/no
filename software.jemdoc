@@ -1,0 +1,26 @@
+# jemdoc: menu{MENU}{software.html}
+# jemdoc: addcss{mktree.css}
+
+= My hacking jemdoc+mathjax version
+Right-click and save link as:
+- [http://staff.kmutt.ac.th/~sudchai.boo/people/sudchai/files/jemdoc.py jemdoc+mathjax]
+
+== MathJax Example
+- Quadratic Formula
+\(
+	\begin{align}
+	x = \frac{-b\pm\sqrt{b^2-4ac}}{2a}\label{eq:E}
+        \end{align}
+\)
+- State-Space equation
+\(
+	\begin{align}
+	\begin{bmatrix} \dot{x}_1 \\ \dot{x}_2 \end{bmatrix} &= \begin{bmatrix}0 & 1 \\ 0 & 0\end{bmatrix}
+	\begin{bmatrix}x_1 \\ x_2\end{bmatrix} + \begin{bmatrix}0 \\ 1\end{bmatrix}u \label{eq:H}
+	\end{align}
+\)
+You can also type inline equations as $A x = b$. Referencing equations is done as Eqs.~$\eqref{eq:E}$ and $\eqref{eq:H}$.
+
+
+
+
