@@ -1,4 +1,4 @@
 # Build settings
 markdown: kramdown
- theme: minimal
+theme: minimal
 # remote_theme: benbalter/retlab
