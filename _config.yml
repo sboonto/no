@@ -1,4 +1,4 @@
 # Build settings
 markdown: kramdown
- theme: jekyll-theme-Mundana
+ theme: jekyll-theme-mundana
 # remote_theme: benbalter/retlab
